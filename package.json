@@ -1,0 +1,12 @@
+{
+  "name": "roblox-fast-gen",
+  "version": "1.0.0",
+  "description": "Minimal Roblox account generator with Puppeteer",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "puppeteer": "^21.6.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
